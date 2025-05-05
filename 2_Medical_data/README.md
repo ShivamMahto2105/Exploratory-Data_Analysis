@@ -41,9 +41,9 @@ The dataset contains over **110,000+ records** with the following key features:
 | `SMS_received`   | 1 if an SMS reminder was sent                       |
 | `No-show`        | 'Yes' if the patient missed the appointment         |
 
-📄 [**Click here to view the dataset**](https://github.com/Shivam-DataAnalytics/EDA-Projects/blob/main/Medical_NoShow_EDA/medical_no_show.csv)
+📄 [**Click here to view the dataset**](https://github.com/Shivam-DataAnalytics/Exploratory-Data_Analysis/blob/main/2_Medical_data/Medical_data.csv)
 
-📘 [**Click here to view the EDA Notebook**](https://github.com/Shivam-DataAnalytics/EDA-Projects/blob/main/Medical_NoShow_EDA/no_show_appointments_EDA.ipynb)
+📘 [**Click here to view the EDA Notebook**](https://github.com/Shivam-DataAnalytics/Exploratory-Data_Analysis/blob/main/2_Medical_data/Medical_data_appointment.ipynb)
 
 ---
 
@@ -70,11 +70,11 @@ The dataset contains over **110,000+ records** with the following key features:
 
 ## 🖼️ Sample Visuals
 
-📍 [Scholarship](https://github.com/Shivam-DataAnalytics/EDA-Projects/blob/main/Medical_NoShow_EDA/visuals/no_show_by_age_group.png)
+📍 [Scholarship](https://github.com/Shivam-DataAnalytics/Exploratory-Data_Analysis/blob/main/2_Medical_data/Scholarship.png)
 
-📍 [Alcoholism and Handicaped](https://github.com/Shivam-DataAnalytics/EDA-Projects/blob/main/Medical_NoShow_EDA/visuals/sms_impact_on_no_show.png)
+📍 [Alcoholism and Handicaped](https://github.com/Shivam-DataAnalytics/Exploratory-Data_Analysis/blob/main/2_Medical_data/Alcoholism%20and%20Handicap.png)
 
-📍 [Hypertension and Diabetes](https://github.com/Shivam-DataAnalytics/EDA-Projects/blob/main/Medical_NoShow_EDA/visuals/scheduled_gap_vs_no_show.png)
+📍 [Hypertension and Diabetes](https://github.com/Shivam-DataAnalytics/Exploratory-Data_Analysis/blob/main/2_Medical_data/Hypertension%20and%20Diabetes.png)
 
 ---
 

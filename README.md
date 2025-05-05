@@ -6,7 +6,7 @@ Welcome to my EDA project repository! This space showcases real-world datasets e
 
 ## ✅ Completed Projects
 
-### 1. [Diwali Sales Analysis](https://github.com/Shivam-DataAnalytics/EDA-Projects/tree/main/Diwali_Sales_Analysis)
+### 1. [Diwali Sales Analysis](https://github.com/Shivam-DataAnalytics/Exploratory-Data_Analysis/tree/main/1_Diwali_sales_analysis)
 A comprehensive EDA project based on Diwali sales data. The analysis highlights:
 
 - Top purchasing demographics by age, gender, marital status
@@ -16,7 +16,7 @@ A comprehensive EDA project based on Diwali sales data. The analysis highlights:
 
 📌 **Key Insight**: Married women aged 26–35, mainly from UP, Maharashtra, and Karnataka working in IT and Healthcare, are the primary buyers—especially of food, clothing, and electronics.
 
-### 2. [Medical Appointment No-Show Analysis]()
+### 2. [Medical Appointment No-Show Analysis](https://github.com/Shivam-DataAnalytics/Exploratory-Data_Analysis/tree/main/2_Medical_data)
 An analytical dive into over 110,000 medical appointments in Brazil, focused on understanding why patients miss scheduled visits.
 
 - Investigates roles of age, gender, health conditions, and SMS reminders

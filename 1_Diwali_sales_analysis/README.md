@@ -32,8 +32,8 @@ The dataset includes retail transactions collected during the Diwali festival se
 | `Product_Category_2/3` | Additional product categories         |
 | `Purchase`       | Purchase amount in INR                      |
 
-📄 [**Click here to view the dataset**](https://github.com/Shivam-DataAnalytics/EDA-Projects/blob/main/Diwali_Sales_Analysis/Diwali Sales Data.csv)  
-📘 [**Click here to view the EDA Notebook**](https://github.com/Shivam-DataAnalytics/EDA-Projects/blob/main/Diwali_Sales_Analysis/Diwali_Sales_EDA.ipynb)
+📄 [**Click here to view the dataset**](https://github.com/Shivam-DataAnalytics/Exploratory-Data_Analysis/blob/main/1_Diwali_sales_analysis/Diwali%20Sales%20Data.xlsx)  
+📘 [**Click here to view the EDA Notebook**](https://github.com/Shivam-DataAnalytics/Exploratory-Data_Analysis/blob/main/1_Diwali_sales_analysis/Diwali_Sales_Analysis.ipynb)
 
 ---
 
@@ -62,9 +62,9 @@ The dataset includes retail transactions collected during the Diwali festival se
 
 ## 📈 Sample Visualizations
 
-📍 [Amount Vs Product_Category](https://github.com/Shivam-DataAnalytics/EDA-Projects/blob/main/Diwali_Sales_Analysis/visuals/gender_vs_purchase.png)  
-📍 [Product_Id Vs Order](https://github.com/Shivam-DataAnalytics/EDA-Projects/blob/main/Diwali_Sales_Analysis/visuals/state_vs_sales.png)  
-📍 [Total Amount By State](https://github.com/Shivam-DataAnalytics/EDA-Projects/blob/main/Diwali_Sales_Analysis/visuals/occupation_vs_sales.png)
+📍 [Amount Vs Product_Category](https://github.com/Shivam-DataAnalytics/Exploratory-Data_Analysis/blob/main/1_Diwali_sales_analysis/Amount%20VS%20Product_category.png)  
+📍 [Product_Id Vs Order](https://github.com/Shivam-DataAnalytics/Exploratory-Data_Analysis/blob/main/1_Diwali_sales_analysis/Product_id%20VS%20Order.png)  
+📍 [Total Amount By State](https://github.com/Shivam-DataAnalytics/Exploratory-Data_Analysis/blob/main/1_Diwali_sales_analysis/Total%20Amount%20By%20state.png)
 
 
 ## 📌 Conclusion
