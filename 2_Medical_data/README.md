@@ -86,8 +86,3 @@ This EDA offers valuable insights for healthcare providers and policy makers to 
 - Improved patient care delivery  
 - Cost savings for healthcare institutions
 
----
-
-## 📬 Contact
-
-- 🔗 [LinkedIn – Shivam Kumar Mahto](https://www.linkedin.com/in/shivam-kumar-mahto-b7a84a311)
